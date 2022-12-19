@@ -1,4 +1,4 @@
 # Контрольная работа по компьютерной лингвистике
 1. Парсинг новостей с сайта v102.ru.
 Скриншот записей базы данных - коллекция news:
-![image](https://user-images.githubusercontent.com/108325837/208515118-e05e8c24-26b1-4a0f-a44a-85ea08e378f9.png)
+![image](https://user-images.githubusercontent.com/108325837/208515631-fe53103d-adb4-41d0-bf11-82dc2fe82f1c.png)
