@@ -124,21 +124,4 @@ if method == 1:
                 }
                 insert_document(news_collection, new_news)
 
-        #title = konf1.find('div', class_='index_cat_tit').text.replace("\n", "")
-        #link = "https://konferencii.ru/" + konf1.find('a').get('href')
-        #data_mer = konf1.find('div', class_='left').text.strip().replace("\n", "").replace( "   ", "")
-        #mesto = konf1.findAll('div', class_='left')[1].find('p', class_='ross_p').text.replace("\n", "").replace("                       ", " ")
-        #organization = konf1.findAll('div', class_='left')[1].find('p', class_='small_p').text
-        #id_type = 1
-        #data.append([title, link, data_mer, mesto, organization, id_type])
-        #print(title)
-        #print(link)
-        #print(data_mer)
-        #print(mesto)
-        #print(organization)
-        #print(id_type)
-        #print("\n")
-
-#for ls in data:
-    #print(ls)
 
