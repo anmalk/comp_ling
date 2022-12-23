@@ -1,0 +1,25 @@
+encoding "utf8";
+
+TTextMinerConfig {
+	Dictionary = "dic.gzt";
+	PrettyOutput = "pretty.html";
+	
+	Input = {
+		File = "input.txt";
+	}
+
+	Output = {
+		File = "output.txt";
+		Format = text;
+	}
+
+Articles = [
+		{ Name = "политик" },
+		{ Name = "дост" }
+	]
+
+Facts = [
+		{ Name = "Polit" },
+		{ Name = "Place" }
+	]
+}

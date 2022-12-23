@@ -1,0 +1,6 @@
+import "base.proto";
+import "articles_base.proto";
+import "kwtypes_base.proto";
+
+message dostopr : TAuxDicArticle {}
+message politiki : TAuxDicArticle {}
